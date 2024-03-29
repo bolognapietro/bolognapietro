@@ -2,8 +2,8 @@
 🔭 I’m currently working on Signal, Image and Video Project<br>🌱 I’m currently learning Deep Learning, Computer Vision, Natural Language Processing and other stuff<br>💬 Ask me about my life and my interests 
 
 # 🎓 Education:
-[2020-2023] Bachelor's degree in Computer, Communications and Electronic Engineering from the University of Trento<br>
-[2023-current] Masters's degree in Artificial Intelligence Systems (Computer Engineering) from the University of Trento 
+**[2020-2023]**     Bachelor's degree in Computer, Communications and Electronic Engineering from the University of Trento<br>
+**[2023-current]**  Masters's degree in Artificial Intelligence Systems (Computer Engineering) from the University of Trento 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pietrobologna_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pietro-bologna-566a27184) 
