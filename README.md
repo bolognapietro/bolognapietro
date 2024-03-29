@@ -32,7 +32,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bolognapietro&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bolognapietro&theme=merko&hide_border=true)<br/>
@@ -40,5 +40,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bolognapietro&icon=0&color=1)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
