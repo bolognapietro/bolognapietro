@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Signal, Image and Video Project<br>🌱 I’m currently learning Deep Learning, Computer Vision, Natural Language Processing and other stuff<br>💬 Ask me about my life and my interests 
+🔭 I’m currently working on Computer Vision and Deep Learning Projects<br>🌱 I’m currently learning Deep Learning, Computer Vision, Natural Language Processing and other stuff<br>💬 Ask me about my life and my interests 
 
 # 🎓 Education:
 **[2020-2023]** Bachelor's degree in Computer, Communications and Electronic Engineering from the University of Trento<br>
