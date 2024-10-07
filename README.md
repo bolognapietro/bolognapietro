@@ -9,8 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pietro-bologna-566a27184) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pietro.bologna2001@gmail.com) 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolognapietro&layout=compact" alt="Top Languages"/>
-
 # 💻 Tech Stack:
 🐍 **Programming Languages**<br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
