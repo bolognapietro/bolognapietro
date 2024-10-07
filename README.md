@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bolognapietro&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 # 💫 About Me:
 🔭 I’m currently working on Computer Vision Project.<br>🌱 I’m currently learning Advanced Computer Vision, Trends and Applications of Computer Vision, Multimedia Data Security, Human-Machine Dialogue and other stuff.<br>💬 Ask me about my life and my interests!
 
