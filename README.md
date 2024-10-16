@@ -13,8 +13,7 @@
 🐍 **Programming Languages**<br>
 [![Programming Languages](https://skillicons.dev/icons?theme=dark&i=python,c,cpp,js,bash)]()
 <br><br>🤖 **AI/ML**<br>
-[![AI/ML](https://skillicons.dev/icons?theme=dark&i=opencv,pytorch)]()
-[![Test](https://skillicons.dev/icons?theme=dark&i=matplotlib)]()
+[![AI/ML](https://skillicons.dev/icons?theme=dark&i=opencv,pytorch,matplotlib)]()
 
 <!--
 🐍 **Programming Languages**<br>
