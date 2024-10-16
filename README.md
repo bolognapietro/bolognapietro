@@ -8,12 +8,13 @@
 # 🌐 Socials:
 [![Email](https://go-skill-icons.vercel.app/api/icons?theme=light&i=gmail)](mailto:pietro.bologna2001@gmail.com)
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?theme=light&i=linkedin)](https://linkedin.com/in/pietro-bologna-566a27184)
+<br><br>🤖 **AI/ML**<br>
+[![AI/ML](https://skillicons.dev/icons?theme=dark&i=opencv,matplotlib,pytorch,numpy)]()
 
 # 💻 Tech Stack:
 🐍 **Programming Languages**<br>
 [![Programming Languages](https://skillicons.dev/icons?theme=dark&i=python,c,cpp,js,bash)]()
-<br><br>🤖 **AI/ML**<br>
-[![AI/ML](https://skillicons.dev/icons?theme=dark&i=opencv,matplotlib,pytorch,numpy)]()
+
 
 <!--
 🐍 **Programming Languages**<br>
