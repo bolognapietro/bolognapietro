@@ -22,11 +22,13 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) 
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/christiansassi/christiansassi/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/christiansassi/christiansassi/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+-->
 
 <!--
 # 📊 GitHub Stats:
