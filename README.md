@@ -6,8 +6,8 @@
 **[2023-current]** Masters's degree in Artificial Intelligence Systems (Computer Engineering) from the University of Trento 
 
 # 🌐 Socials:
-[![([https://go-skill-icons.vercel.app/api/icons?theme=light&i=gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:pietro.bologna2001@gmail.com)
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?theme=light&i=linkedin)](https://linkedin.com/in/pietro-bologna-566a27184)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pietro-bologna-566a27184) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pietro.bologna2001@gmail.com) 
 
 # 💻 Tech Stack:
 🐍 **Programming Languages**<br>
