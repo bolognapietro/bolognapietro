@@ -11,9 +11,9 @@
 
 # 💻 Tech Stack:
 🐍 **Programming Languages**<br>
-[![Programming Languages](https://skillicons.dev/icons?theme=dark&i=python,c,cpp,js,bash)]()
+[![Programming Languages](https://skillicons.dev/icons?theme=light&i=python,c,cpp,js,bash)]()
 <br><br>🤖 **AI/ML**<br>
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,matplotlib,numpy,cs)]()
+[![My Skills](https://skillicons.dev/icons?theme=light&i=opencv,pytorch,matplotlib,numpy)]()
 
 <!--
 🐍 **Programming Languages**<br>
