@@ -10,7 +10,9 @@
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?theme=light&i=linkedin)](https://linkedin.com/in/pietro-bologna-566a27184)
 
 # 💻 Tech Stack:
+🐍 **Programming Languages**<br>
 [![Tech Stack](https://skillicons.dev/icons?theme=dark&i=python,c,cpp,js,bash)]()
+<br><br>🤖 **AI/ML**<br>
 
 <!--
 🐍 **Programming Languages**<br>
