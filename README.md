@@ -6,16 +6,10 @@
 **[2023-current]** Masters's degree in Artificial Intelligence Systems (Computer Engineering) from the University of Trento 
 
 # 🌐 Socials:
-[![Email](https://go-skill-icons.vercel.app/api/icons?theme=light&i=gmail)](mailto:pietro.bologna2001@gmail.com)
+[![Email]([https://go-skill-icons.vercel.app/api/icons?theme=light&i=gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:pietro.bologna2001@gmail.com)
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?theme=light&i=linkedin)](https://linkedin.com/in/pietro-bologna-566a27184)
 
 # 💻 Tech Stack:
-🐍 **Programming Languages**<br>
-[![Programming Languages](https://skillicons.dev/icons?theme=light&i=python,c,cpp,js,bash)]()
-<br><br>🤖 **AI/ML**<br>
-[![My Skills](https://skillicons.dev/icons?theme=light&i=opencv,pytorch,matplotlib,numpy)]()
-
-<!--
 🐍 **Programming Languages**<br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
@@ -27,7 +21,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) 
--->
 
 <!--
 <picture>
