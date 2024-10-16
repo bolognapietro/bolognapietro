@@ -6,8 +6,8 @@
 **[2023-current]** Masters's degree in Artificial Intelligence Systems (Computer Engineering) from the University of Trento 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pietro-bologna-566a27184) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pietro.bologna2001@gmail.com) 
+[![Email](https://go-skill-icons.vercel.app/api/icons?theme=light&i=gmail)](mailto:pietro.bologna2001@gmail.com)
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?theme=light&i=linkedin)](https://linkedin.com/in/pietro-bologna-566a27184)
 
 # 💻 Tech Stack:
 🐍 **Programming Languages**<br>
@@ -21,9 +21,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) 
-
-## 🏆 Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/pietrobologna)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/christiansassi/christiansassi/blob/output/github-contribution-grid-snake-dark.svg" />
