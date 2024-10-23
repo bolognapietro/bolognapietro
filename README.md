@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision Project.<br>🌱 I’m currently learning Advanced Computer Vision, Trends and Applications of Computer Vision, Multimedia Data Security, Human-Machine Dialogue and other stuff.<br>💬 Ask me about my life and my interests!
+🔭 I’m currently working on this projects: Computer Vision, Autonomous Software Agents, Multimedia Data Security and Knowledge Graph Engineering.<br>
+🌱 I’m currently learning Advanced Computer Vision, Trends and Applications of Computer Vision, Multimedia Data Security, Human-Machine Dialogue and other stuff.<br>
 
 # 🎓 Education:
 **[2020-2023]** Bachelor's degree in Computer, Communications and Electronic Engineering from the University of Trento<br>
