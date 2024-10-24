@@ -24,7 +24,7 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) 
 
 ## 🏆 Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/bolognapietro)
+![Leetcode Stats](https://leetcard.jacoblin.cool/pietrobologna)
 
 <!--
 <picture>
