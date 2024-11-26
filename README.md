@@ -3,8 +3,8 @@
 🌱 I’m currently learning Advanced Computer Vision, Trends and Applications of Computer Vision, Multimedia Data Security, Human-Machine Dialogue and other stuff.<br>
 
 # 🎓 Education:
-**[2020-2023]** Bachelor's degree in Computer, Communications and Electronic Engineering from the University of Trento<br>
 **[2023-current]** Masters's degree in Artificial Intelligence Systems (Computer Engineering) from the University of Trento 
+**[2020-2023]** Bachelor's degree in Computer, Communications and Electronic Engineering from the University of Trento<br>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pietro-bologna-566a27184) 
