@@ -6,8 +6,14 @@
 **[2020-2023]** Bachelor degree in Computer Engineering at the University of Trento<br>
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pietro-bologna-566a27184) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pietro.bologna2001@gmail.com) 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/pietrobologna/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></img>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:pietro.bologna2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></img>
+  </a> 
+</p>
 
 # 💻 Tech Stack:
 🐍 **Programming Languages**<br>
