@@ -20,14 +20,16 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
 </p>
-<br><br>🤖 **AI/ML**<br>
+
+🤖 **AI/ML**<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <\p>
-<br><br>**Other**<br>
+
+**Other**<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=white" alt="Linux"/>
