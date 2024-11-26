@@ -1,10 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on this projects: Computer Vision, Autonomous Software Agents, Multimedia Data Security and Knowledge Graph Engineering.<br>
-🌱 I’m currently learning Advanced Computer Vision, Trends and Applications of Computer Vision, Multimedia Data Security, Human-Machine Dialogue and other stuff.<br>
+🔭 I’m currently working on this projects: Autonomous Software Agents, Multimedia Data Security, Advanced Computer Vision, Trends and Applications of Computer Vision, Human-Machine Dialogue and Knowledge Graph Engineering.<br>
 
 # 🎓 Education:
-**[2023-current]** Masters's degree in Artificial Intelligence Systems (Computer Engineering) from the University of Trento<br>
-**[2020-2023]** Bachelor's degree in Computer, Communications and Electronic Engineering from the University of Trento<br>
+**[2023-current]** Masters degree in Artificial Intelligence Engineering at the University of Trento<br>
+**[2020-2023]** Bachelor degree in Computer Engineering at the University of Trento<br>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pietro-bologna-566a27184) 
