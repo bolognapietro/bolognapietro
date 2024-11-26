@@ -3,7 +3,7 @@
 🌱 I’m currently learning Advanced Computer Vision, Trends and Applications of Computer Vision, Multimedia Data Security, Human-Machine Dialogue and other stuff.<br>
 
 # 🎓 Education:
-**[2023-current]** Masters's degree in Artificial Intelligence Systems (Computer Engineering) from the University of Trento 
+**[2023-current]** Masters's degree in Artificial Intelligence Systems (Computer Engineering) from the University of Trento<br>
 **[2020-2023]** Bachelor's degree in Computer, Communications and Electronic Engineering from the University of Trento<br>
 
 # 🌐 Socials:
