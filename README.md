@@ -17,7 +17,7 @@
 
 # 💻 Tech Stack:
 🐍 **Programming Languages**<br>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java"/>
@@ -27,7 +27,7 @@
 </p>
 
 🤖 **AI/ML**<br>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -35,7 +35,7 @@
 </p>
 
 **Other**<br>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=white" alt="Linux"/>
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon&logoColor=white" alt="AWS"/>
