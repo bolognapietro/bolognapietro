@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on this projects: Autonomous Software Agents, Multimedia Data Security, Advanced Computer Vision, Trends and Applications of Computer Vision, Human-Machine Dialogue and Knowledge Graph Engineering.<br>
+🔭 I’m currently working on the **Human-Machine Dialogue** project, focusing on natural language interaction between users and AI systems. At the same time, I’m completing an internship at **VIMAR S.p.A.**, where I’m developing computer vision solutions for security camera systems, with a focus on presence detection, visual analysis, and intelligent alarms.<br>
 
 # 🎓 Education:
 **[2023-current]** Masters degree in Artificial Intelligence Engineering at the University of Trento<br>
@@ -44,6 +44,28 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://tinyurl.com/cvyolo11" alt="Yolo"/>
 </p>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  
+  <!-- GitHub Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=bolognapietro&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=false" 
+      alt="GitHub Stats"
+      height="200"
+    />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/bolognapietro">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolognapietro&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&hide_border=false&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+      alt="Top Languages"
+      height="200"
+    />
+  </a>
+
+</div>
 
 <!--
 ## 🏆 Leetcode Stats
